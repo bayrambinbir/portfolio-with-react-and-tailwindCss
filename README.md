@@ -3,9 +3,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Tools & Technoogies
-* JavaScript\
-* React\
-* TailwindCss\
+* JavaScript
+* React
+* TailwindCss
 * [GetForm.io](https://app.getform.io/forms)
 ## Available Scripts
 
