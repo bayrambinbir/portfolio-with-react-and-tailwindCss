@@ -6,6 +6,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 * JavaScript
 * React
 * TailwindCss
+* npm
 * [GetForm.io](https://app.getform.io/forms)
 ## Available Scripts
 
